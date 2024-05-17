@@ -1,0 +1,4 @@
+annotations_trainval2017.zip
+annotations/*
+
+__pycache__
